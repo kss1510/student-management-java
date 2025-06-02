@@ -10,19 +10,27 @@ This is a Java-based Student Management System project created using VSCode. It 
 ## 🔧 How to Run
 
 ### Compile
+
 javac -d out src/model/*.java src/service/*.java src/ui/*.java
 
-To Run
+Run
+
 java -cp out ui.StudentManagementGUI
 
 👤 Admin Login
+
 Username: admin
+
 Password: 1234
 
 🛠 Tools Used
+
 Java 17
+
 VSCode
+
 Swing (Java GUI)
+
 Git + GitHub
 
 📂 File Storage
